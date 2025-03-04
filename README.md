@@ -20,6 +20,7 @@ ___
 
 ## 🛠️ My skills:  
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,postgres,figma,linux,postman,python,cpp" width="600"/>  
+<img src="https://skills-icons.vercel.app/api/icons?i=jetpackcompose" width = "52"/>
 <br>
 <img src="https://img.shields.io/badge/Room-%23FF6F00.svg?style=flat&logo=android&logoColor=white" width="105" alt="Room"/>
 <img src="https://img.shields.io/badge/Retrofit-%23FFF00.svg?style=flat&logo=android&logoColor=white" width="120" alt="Retrofit"/>
