@@ -10,7 +10,7 @@ ___
 
 ## :man_technologist: About Me:
 
-### Android developer. Interested in machine learning. Always strive to improve my knowledge and skills.
+### Interested in machine learning. Always strive to improve my knowledge and skills.
 ### In addition to work, I am passionate about investing and sports, which help me maintain a healthy work-life balance and stay as productive as possible.
 ### Here, I share my projects, solutions, and ideas that could be valuable not only for other developers but also for those interested in technology and programming in general.
 
