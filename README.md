@@ -53,5 +53,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-10SA&layout=compact)
