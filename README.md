@@ -6,12 +6,6 @@
 
 <h1 align="center">Hi there, I'm Dmitriy 👋</h1>
 
-<p align="center">
-  Java and Kotlin developer focused on backend and mobile development
-</p>
-
----
-
 ### 📲 My applications
 
 [![RuStore](https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge\&logo=android\&logoColor=white)](https://www.rustore.ru/catalog/developer/if7q7d)
